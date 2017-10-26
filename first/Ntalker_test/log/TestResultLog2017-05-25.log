@@ -1,0 +1,674 @@
+2017-05-25 17:23:42  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 17:23:42  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 17:23:43  [ main:361 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 17:23:46  [ main:3469 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 17:23:48  [ main:5583 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 17:23:55  [ main:12564 ] - [ INFO ]  存在接待组
+2017-05-25 17:23:55  [ main:12665 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 17:23:55  [ main:12665 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 17:23:59  [ main:16874 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:00  [ main:17176 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:00  [ main:17460 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:00  [ main:17756 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:01  [ main:19002 ] - [ INFO ]  enterprisesInformation no pass
+2017-05-25 17:24:33  [ main:50950 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:35  [ main:52841 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:36  [ main:53275 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:37  [ main:54757 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:38  [ main:55439 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:38  [ main:55962 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:39  [ main:56265 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:39  [ main:56831 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:40  [ main:57354 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:40  [ main:57616 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:24:56  [ main:74019 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 17:24:58  [ main:75679 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[2]/divpass
+2017-05-25 17:25:00  [ main:77547 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[3]/divpass
+2017-05-25 17:25:02  [ main:79375 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[4]/divpass
+2017-05-25 17:25:03  [ main:80989 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[5]/divpass
+2017-05-25 17:25:05  [ main:82505 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[6]/divpass
+2017-05-25 17:25:06  [ main:84154 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[7]/divpass
+2017-05-25 17:25:08  [ main:85250 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 17:25:24  [ main:101817 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 17:25:27  [ main:104327 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 17:25:28  [ main:105946 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 17:25:31  [ main:108475 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 17:25:33  [ main:110868 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 17:25:36  [ main:113500 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 17:25:37  [ main:115101 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 17:25:40  [ main:118035 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 17:25:42  [ main:119616 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 17:25:44  [ main:121261 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 17:25:46  [ main:123798 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 17:25:48  [ main:126075 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 17:25:50  [ main:127932 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 17:25:53  [ main:130473 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 17:25:55  [ main:133064 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 17:25:57  [ main:134478 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 17:25:57  [ main:134562 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 17:25:58  [ main:136156 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 17:26:00  [ main:137400 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 17:26:01  [ main:138649 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 17:26:02  [ main:140008 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 17:26:04  [ main:141549 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 17:26:07  [ main:144342 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 17:26:09  [ main:147043 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 17:26:27  [ main:164302 ] - [ INFO ]  pass
+2017-05-25 17:26:39  [ main:176996 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:41  [ main:178779 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:44  [ main:181263 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:46  [ main:183406 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:48  [ main:185274 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:51  [ main:188166 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:53  [ main:190347 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:57  [ main:194247 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:26:58  [ main:196030 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:00  [ main:197879 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:02  [ main:199861 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:04  [ main:201659 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:06  [ main:203414 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:08  [ main:205349 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:09  [ main:206722 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:10  [ main:208037 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:12  [ main:209361 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:27:25  [ main:222694 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 17:27:26  [ main:223446 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 17:27:26  [ main:223515 ] - [ INFO ]  访客连接到机器人
+2017-05-25 17:27:27  [ main:224554 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-25 17:27:27  [ main:224562 ] - [ INFO ]  成功连接到人工客服
+2017-05-25 17:27:27  [ main:224569 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-25 17:27:27  [ main:224569 ] - [ INFO ]  聊窗打开成功
+2017-05-25 17:30:47  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 17:30:47  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 17:30:48  [ main:269 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 17:30:51  [ main:3250 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 17:30:53  [ main:5466 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 17:31:00  [ main:12656 ] - [ INFO ]  存在接待组
+2017-05-25 17:31:00  [ main:12757 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 17:31:00  [ main:12757 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 17:31:04  [ main:16810 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:04  [ main:17111 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:05  [ main:17402 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:05  [ main:17799 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:06  [ main:19059 ] - [ INFO ]  enterprisesInformation no pass
+2017-05-25 17:31:38  [ main:50926 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:40  [ main:53129 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:41  [ main:53573 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:43  [ main:55300 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:43  [ main:55601 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:43  [ main:55912 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:43  [ main:56213 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:44  [ main:56857 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:45  [ main:57893 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:31:45  [ main:58211 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:32:02  [ main:75040 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 17:32:04  [ main:76712 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[2]/divpass
+2017-05-25 17:32:06  [ main:78655 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[3]/divpass
+2017-05-25 17:32:08  [ main:80437 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[4]/divpass
+2017-05-25 17:32:10  [ main:82283 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[5]/divpass
+2017-05-25 17:32:11  [ main:84061 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[6]/divpass
+2017-05-25 17:32:13  [ main:85845 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[7]/divpass
+2017-05-25 17:32:14  [ main:86955 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 17:32:31  [ main:103561 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 17:32:33  [ main:105989 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 17:32:35  [ main:107681 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 17:32:37  [ main:110111 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 17:32:40  [ main:112224 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 17:32:42  [ main:114744 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 17:32:44  [ main:116385 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 17:32:45  [ main:117996 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 17:32:47  [ main:119679 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 17:32:49  [ main:121462 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 17:32:51  [ main:123804 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 17:32:53  [ main:126189 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 17:32:55  [ main:128087 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 17:32:58  [ main:130600 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 17:33:00  [ main:133122 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 17:33:02  [ main:134762 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 17:33:02  [ main:134847 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 17:33:04  [ main:136243 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 17:33:05  [ main:137845 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 17:33:07  [ main:139322 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 17:33:08  [ main:141107 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 17:33:10  [ main:142987 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 17:33:13  [ main:145861 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 17:33:16  [ main:148679 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 17:33:34  [ main:166432 ] - [ INFO ]  pass
+2017-05-25 17:33:46  [ main:178316 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:33:47  [ main:179999 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:33:50  [ main:182281 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:33:52  [ main:184581 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:33:54  [ main:186291 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:33:56  [ main:189044 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:33:58  [ main:190897 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:02  [ main:194961 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:04  [ main:196691 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:06  [ main:198445 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:08  [ main:200271 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:09  [ main:202057 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:11  [ main:203780 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:13  [ main:205577 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:14  [ main:206769 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:15  [ main:208040 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:17  [ main:209390 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:34:30  [ main:222891 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 17:34:31  [ main:223494 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 17:34:31  [ main:223548 ] - [ INFO ]  访客连接到机器人
+2017-05-25 17:34:32  [ main:224731 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-25 17:34:32  [ main:224739 ] - [ INFO ]  成功连接到人工客服
+2017-05-25 17:34:32  [ main:224746 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-25 17:34:32  [ main:224746 ] - [ INFO ]  聊窗打开成功
+2017-05-25 17:46:41  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 17:46:41  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 17:46:42  [ main:351 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 17:46:45  [ main:3270 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 17:46:47  [ main:5383 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 17:46:55  [ main:13193 ] - [ INFO ]  存在接待组
+2017-05-25 17:46:55  [ main:13294 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 17:46:55  [ main:13294 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 17:46:59  [ main:17932 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:00  [ main:18311 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:00  [ main:18699 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:00  [ main:19048 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:02  [ main:20347 ] - [ INFO ]  enterprisesInformation no pass
+2017-05-25 17:47:34  [ main:52507 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:36  [ main:54283 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:36  [ main:54696 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:38  [ main:56235 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:38  [ main:56735 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:39  [ main:57172 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:39  [ main:57488 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:39  [ main:58091 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:40  [ main:58528 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:40  [ main:58819 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 17:47:58  [ main:76579 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 17:48:16  [ main:94376 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 17:48:33  [ main:111796 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 17:48:36  [ main:114296 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 17:48:38  [ main:116226 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 17:48:40  [ main:118971 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 17:48:42  [ main:121084 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 17:48:45  [ main:123693 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 17:48:47  [ main:125546 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 17:48:49  [ main:127189 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 17:48:50  [ main:128751 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 17:48:52  [ main:130365 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 17:48:54  [ main:132722 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 17:48:57  [ main:135437 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 17:48:59  [ main:137593 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 17:49:02  [ main:140315 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 17:49:04  [ main:143119 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 17:49:11  [ main:149367 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 17:49:13  [ main:151953 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 17:49:31  [ main:169600 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 17:49:33  [ main:171292 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 17:49:35  [ main:173166 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 17:49:40  [ main:178273 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 17:49:41  [ main:179969 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 17:49:46  [ main:184408 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 17:49:49  [ main:187182 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 17:50:07  [ main:205155 ] - [ INFO ]  pass
+2017-05-25 17:50:20  [ main:218616 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:23  [ main:221883 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:26  [ main:224725 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:29  [ main:227678 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:32  [ main:230244 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:35  [ main:233473 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:37  [ main:236008 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:42  [ main:240227 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:44  [ main:242590 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:47  [ main:245311 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:49  [ main:247700 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:51  [ main:250091 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:54  [ main:252164 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:56  [ main:254351 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:57  [ main:255595 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:50:59  [ main:257470 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:51:01  [ main:260058 ] - [ INFO ]  kf_4607:pass
+2017-05-25 17:51:15  [ main:273624 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 17:51:16  [ main:274516 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 17:51:16  [ main:274565 ] - [ INFO ]  访客连接到机器人
+2017-05-25 17:51:17  [ main:275600 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-25 17:51:17  [ main:275608 ] - [ INFO ]  成功连接到人工客服
+2017-05-25 17:51:17  [ main:275615 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-25 17:51:17  [ main:275615 ] - [ INFO ]  聊窗打开成功
+2017-05-25 18:00:43  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:00:43  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:00:44  [ main:336 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:00:47  [ main:3165 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:00:49  [ main:5278 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:00:56  [ main:12220 ] - [ INFO ]  存在接待组
+2017-05-25 18:00:56  [ main:12331 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:00:56  [ main:12331 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:01:00  [ main:16559 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:00  [ main:16868 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:01  [ main:17179 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:01  [ main:17615 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:02  [ main:18872 ] - [ INFO ]  enterprisesInformation（企业信息） no pass
+2017-05-25 18:01:36  [ main:52548 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:37  [ main:53953 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:39  [ main:55345 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:41  [ main:57189 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:41  [ main:57737 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:42  [ main:58585 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:43  [ main:59276 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:44  [ main:60327 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:45  [ main:61123 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:01:45  [ main:61542 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:15:18  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:15:18  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:15:18  [ main:371 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:15:21  [ main:3316 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:15:23  [ main:5436 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:15:30  [ main:12793 ] - [ INFO ]  存在接待组
+2017-05-25 18:15:31  [ main:12894 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:15:31  [ main:12894 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:15:35  [ main:16872 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:15:35  [ main:17197 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:15:35  [ main:17495 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:15:35  [ main:17776 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:15:37  [ main:19047 ] - [ INFO ]  enterprisesInformation（企业信息） no pass
+2017-05-25 18:16:08  [ main:50745 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:10  [ main:52379 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:10  [ main:52694 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:12  [ main:54225 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:12  [ main:54527 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:13  [ main:55573 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:14  [ main:55892 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:14  [ main:56383 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:14  [ main:56790 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:15  [ main:57107 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:16:32  [ main:73872 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 18:16:46  [ main:87911 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 18:17:02  [ main:104574 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 18:17:05  [ main:107568 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 18:17:07  [ main:109444 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 18:17:10  [ main:112335 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 18:17:12  [ main:114735 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 18:17:15  [ main:117291 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 18:17:17  [ main:119010 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 18:17:18  [ main:120825 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 18:17:20  [ main:122518 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 18:17:22  [ main:124496 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 18:17:24  [ main:126751 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 18:17:27  [ main:128990 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 18:17:29  [ main:131170 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 18:17:31  [ main:133703 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 18:17:34  [ main:136264 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 18:17:35  [ main:137844 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 18:17:36  [ main:137930 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 18:17:38  [ main:140732 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 18:17:42  [ main:144709 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 18:17:45  [ main:147814 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 18:17:48  [ main:150629 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 18:17:51  [ main:153699 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 18:17:56  [ main:157927 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 18:18:00  [ main:162018 ] - [ INFO ]  kf_4607常用搜索:pass
+2017-05-25 18:18:19  [ main:181107 ] - [ INFO ]  pass
+2017-05-25 18:18:32  [ main:194685 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:34  [ main:196385 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:36  [ main:198631 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:38  [ main:200424 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:40  [ main:202194 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:43  [ main:204869 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:45  [ main:207181 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:49  [ main:211031 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:50  [ main:212682 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:52  [ main:214547 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:54  [ main:216372 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:56  [ main:218170 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:18:58  [ main:220227 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:19:00  [ main:222105 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:19:02  [ main:223891 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:19:03  [ main:225775 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:19:05  [ main:227639 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:19:19  [ main:241568 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 18:19:20  [ main:242362 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 18:19:20  [ main:242408 ] - [ INFO ]  访客连接到机器人
+2017-05-25 18:24:52  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:24:52  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:24:53  [ main:329 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:24:56  [ main:3156 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:24:58  [ main:5270 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:25:05  [ main:12182 ] - [ INFO ]  存在接待组
+2017-05-25 18:25:05  [ main:12298 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:25:05  [ main:12298 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:25:09  [ main:16295 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:25:09  [ main:16585 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:25:09  [ main:16876 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:25:10  [ main:17193 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:25:11  [ main:18458 ] - [ INFO ]  enterprisesInformation（企业信息） no pass
+2017-05-25 18:26:07  [ main:74381 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:08  [ main:76043 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:09  [ main:76363 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:10  [ main:77878 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:11  [ main:78203 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:11  [ main:78516 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:11  [ main:78841 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:12  [ main:79390 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:12  [ main:79767 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:12  [ main:80051 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:26:29  [ main:96701 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 18:26:31  [ main:98211 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[2]/divpass
+2017-05-25 18:26:32  [ main:99992 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[3]/divpass
+2017-05-25 18:26:34  [ main:101748 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[4]/divpass
+2017-05-25 18:26:36  [ main:103547 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[5]/divpass
+2017-05-25 18:26:38  [ main:105224 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[6]/divpass
+2017-05-25 18:26:39  [ main:106905 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[7]/divpass
+2017-05-25 18:26:40  [ main:108018 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 18:26:57  [ main:124320 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 18:26:59  [ main:126779 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 18:27:01  [ main:128431 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 18:27:03  [ main:130719 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 18:27:05  [ main:132653 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 18:27:08  [ main:135294 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 18:27:09  [ main:136898 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 18:27:11  [ main:138604 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 18:27:13  [ main:140375 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 18:27:15  [ main:142421 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 18:27:17  [ main:144731 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 18:27:19  [ main:147050 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 18:27:21  [ main:148913 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 18:27:24  [ main:151246 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 18:27:26  [ main:153931 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 18:27:28  [ main:155543 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 18:27:28  [ main:155625 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 18:27:29  [ main:157034 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 18:27:31  [ main:158446 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 18:27:33  [ main:160311 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 18:27:35  [ main:162590 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 18:27:37  [ main:164853 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 18:27:40  [ main:168062 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 18:27:43  [ main:170684 ] - [ INFO ]  kf_4607常用搜索:pass
+2017-05-25 18:28:01  [ main:188305 ] - [ INFO ]  pass
+2017-05-25 18:28:13  [ main:200203 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:14  [ main:201969 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:16  [ main:203899 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:18  [ main:205733 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:20  [ main:207480 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:23  [ main:210269 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:24  [ main:212086 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:28  [ main:215940 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:30  [ main:217831 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:32  [ main:219527 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:34  [ main:221497 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:36  [ main:223239 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:37  [ main:225048 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:39  [ main:226865 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:40  [ main:228057 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:42  [ main:229288 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:43  [ main:230598 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:28:56  [ main:243717 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 18:28:57  [ main:244272 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 18:28:57  [ main:244366 ] - [ INFO ]  访客连接到机器人
+2017-05-25 18:28:58  [ main:245510 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-25 18:28:58  [ main:245519 ] - [ INFO ]  成功连接到人工客服
+2017-05-25 18:28:58  [ main:245526 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-25 18:28:58  [ main:245526 ] - [ INFO ]  聊窗打开成功
+2017-05-25 18:29:43  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:29:43  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:29:43  [ main:361 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:29:46  [ main:3174 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:29:48  [ main:5289 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:29:55  [ main:11797 ] - [ INFO ]  存在接待组
+2017-05-25 18:29:55  [ main:11907 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:29:55  [ main:11907 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:29:59  [ main:15925 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:29:59  [ main:16223 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:29:59  [ main:16511 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:00  [ main:16800 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:01  [ main:18079 ] - [ INFO ]  enterprisesInformation（企业信息） no pass
+2017-05-25 18:30:33  [ main:50158 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:35  [ main:51914 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:35  [ main:52224 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:37  [ main:53892 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:37  [ main:54271 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:37  [ main:54714 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:38  [ main:54979 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:38  [ main:55465 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:39  [ main:55881 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:39  [ main:56123 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:30:55  [ main:72529 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 18:30:57  [ main:74172 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[2]/divpass
+2017-05-25 18:30:59  [ main:75895 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[3]/divpass
+2017-05-25 18:31:00  [ main:77555 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[4]/divpass
+2017-05-25 18:31:02  [ main:79313 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[5]/divpass
+2017-05-25 18:31:04  [ main:80933 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[6]/divpass
+2017-05-25 18:31:05  [ main:82587 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[7]/divpass
+2017-05-25 18:31:06  [ main:83688 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 18:31:23  [ main:100304 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 18:31:26  [ main:103200 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 18:31:28  [ main:104946 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 18:31:30  [ main:107337 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 18:31:32  [ main:109446 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 18:31:35  [ main:112191 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 18:31:37  [ main:114108 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 18:31:39  [ main:115824 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 18:31:40  [ main:117683 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 18:31:42  [ main:119444 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 18:31:45  [ main:121947 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 18:31:47  [ main:124256 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 18:31:49  [ main:126249 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 18:31:52  [ main:128966 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 18:31:55  [ main:132120 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 18:31:57  [ main:133850 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 18:31:57  [ main:133960 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 18:31:59  [ main:135886 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 18:32:01  [ main:138208 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 18:32:03  [ main:140327 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 18:32:05  [ main:142028 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 18:32:06  [ main:143503 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 18:32:09  [ main:146210 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 18:32:12  [ main:149098 ] - [ INFO ]  kf_4607常用搜索:pass
+2017-05-25 18:32:29  [ main:166568 ] - [ INFO ]  pass
+2017-05-25 18:32:42  [ main:178945 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:43  [ main:180608 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:45  [ main:182727 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:47  [ main:184768 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:49  [ main:186505 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:52  [ main:189210 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:54  [ main:191083 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:58  [ main:194894 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:32:59  [ main:196679 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:01  [ main:198451 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:03  [ main:200283 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:05  [ main:202032 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:06  [ main:203731 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:08  [ main:205610 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:10  [ main:206832 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:11  [ main:208078 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:12  [ main:209325 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:33:25  [ main:222674 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 18:33:26  [ main:223644 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 18:33:26  [ main:223705 ] - [ INFO ]  访客连接到机器人
+2017-05-25 18:33:27  [ main:224757 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-25 18:33:27  [ main:224765 ] - [ INFO ]  成功连接到人工客服
+2017-05-25 18:33:28  [ main:224772 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-25 18:33:28  [ main:224772 ] - [ INFO ]  聊窗打开成功
+2017-05-25 18:35:07  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:35:07  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:35:07  [ main:336 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:35:10  [ main:3083 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:35:12  [ main:5195 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:35:19  [ main:12235 ] - [ INFO ]  存在接待组
+2017-05-25 18:35:19  [ main:12348 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:35:19  [ main:12348 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:35:23  [ main:16401 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:24  [ main:16702 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:24  [ main:17001 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:24  [ main:17283 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:26  [ main:18669 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:26  [ main:18999 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:26  [ main:19317 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:27  [ main:19727 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:28  [ main:20570 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:28  [ main:21307 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:29  [ main:21720 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:29  [ main:22148 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:30  [ main:22498 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:30  [ main:22913 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:30  [ main:23238 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:32  [ main:25153 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:33  [ main:25581 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:34  [ main:27131 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:35  [ main:27568 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:35  [ main:27885 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:35  [ main:28163 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:36  [ main:28653 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:36  [ main:29084 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:36  [ main:29358 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:35:53  [ main:45833 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 18:35:54  [ main:47449 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[2]/divpass
+2017-05-25 18:35:56  [ main:49383 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[3]/divpass
+2017-05-25 18:35:58  [ main:51198 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[4]/divpass
+2017-05-25 18:36:00  [ main:52854 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[5]/divpass
+2017-05-25 18:36:02  [ main:54578 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[6]/divpass
+2017-05-25 18:36:03  [ main:56236 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[7]/divpass
+2017-05-25 18:36:04  [ main:57351 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 18:36:21  [ main:74259 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 18:36:24  [ main:77102 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 18:36:26  [ main:78866 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 18:36:28  [ main:81292 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 18:36:30  [ main:83263 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 18:36:33  [ main:85809 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 18:36:35  [ main:87644 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 18:36:36  [ main:89337 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 18:36:38  [ main:91128 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 18:36:40  [ main:92794 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 18:36:42  [ main:95471 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 18:36:45  [ main:97763 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 18:36:47  [ main:99765 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 18:36:49  [ main:102214 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 18:36:52  [ main:105421 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 18:36:54  [ main:107068 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 18:36:54  [ main:107158 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 18:36:56  [ main:108685 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 18:36:57  [ main:110229 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 18:36:59  [ main:111705 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 18:37:00  [ main:113179 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 18:37:02  [ main:114783 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 18:37:05  [ main:117804 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 18:37:08  [ main:120616 ] - [ INFO ]  kf_4607常用搜索:pass
+2017-05-25 18:37:26  [ main:138798 ] - [ INFO ]  pass
+2017-05-25 18:37:40  [ main:153203 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:42  [ main:154895 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:44  [ main:157241 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:46  [ main:159344 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:48  [ main:161104 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:51  [ main:164007 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:53  [ main:166047 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:57  [ main:170134 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:37:59  [ main:171897 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:01  [ main:173598 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:03  [ main:176163 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:05  [ main:178102 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:07  [ main:180060 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:09  [ main:181935 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:10  [ main:183128 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:11  [ main:184393 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:13  [ main:185604 ] - [ INFO ]  kf_4607:pass
+2017-05-25 18:38:26  [ main:199277 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-25 18:38:27  [ main:199674 ] - [ INFO ]  nTalk.im_openInPageChat('kf_4607_1488854360823', '', 'kf_4607_1488854360823_ntalker_steven');---聊窗打开失败
+2017-05-25 18:38:27  [ main:199679 ] - [ INFO ]  检查是否连接到机器人
+2017-05-25 18:38:27  [ main:199963 ] - [ INFO ]  访客连接到机器人
+2017-05-25 18:38:28  [ main:201030 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-25 18:38:28  [ main:201040 ] - [ INFO ]  成功连接到人工客服
+2017-05-25 18:38:28  [ main:201049 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-25 18:38:28  [ main:201049 ] - [ INFO ]  聊窗打开成功
+2017-05-25 18:40:40  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:40:40  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:40:40  [ main:459 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:40:43  [ main:3278 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:40:45  [ main:5393 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:40:53  [ main:13297 ] - [ INFO ]  存在接待组
+2017-05-25 18:40:53  [ main:13414 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:40:53  [ main:13415 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:40:57  [ main:17564 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:40:58  [ main:17857 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:40:58  [ main:18163 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:40:58  [ main:18444 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:00  [ main:19938 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:00  [ main:20228 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:00  [ main:20515 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:01  [ main:20806 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:01  [ main:21426 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:02  [ main:21828 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:02  [ main:22290 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:02  [ main:22638 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:03  [ main:22975 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:03  [ main:23399 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:03  [ main:23721 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:05  [ main:25430 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:06  [ main:25889 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:07  [ main:27412 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:07  [ main:27719 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:08  [ main:28039 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:08  [ main:28295 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:09  [ main:28780 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:09  [ main:29119 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:09  [ main:29384 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:41:55  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-25 18:41:55  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-25 18:41:55  [ main:290 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-25 18:41:58  [ main:3126 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-25 18:42:00  [ main:5240 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-25 18:42:07  [ main:11851 ] - [ INFO ]  存在接待组
+2017-05-25 18:42:07  [ main:11975 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-25 18:42:07  [ main:11975 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-25 18:42:11  [ main:16216 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:11  [ main:16511 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:12  [ main:16812 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:12  [ main:17097 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:13  [ main:18613 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:14  [ main:18914 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:14  [ main:19201 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:14  [ main:19619 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:15  [ main:20234 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:15  [ main:20761 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:16  [ main:21083 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:16  [ main:21507 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:17  [ main:21885 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:17  [ main:22295 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:17  [ main:22621 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:19  [ main:24365 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:19  [ main:24697 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:21  [ main:26334 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:21  [ main:26677 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:22  [ main:27110 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:22  [ main:27440 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:23  [ main:27909 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:23  [ main:28274 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:23  [ main:28547 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:pass
+2017-05-25 18:42:40  [ main:45033 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[1]/divpass
+2017-05-25 18:42:41  [ main:46631 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[2]/divpass
+2017-05-25 18:42:43  [ main:48561 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[3]/divpass
+2017-05-25 18:42:45  [ main:50177 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[4]/divpass
+2017-05-25 18:42:47  [ main:51996 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[5]/divpass
+2017-05-25 18:42:48  [ main:53696 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[6]/divpass
+2017-05-25 18:42:50  [ main:55246 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[7]/divpass
+2017-05-25 18:42:51  [ main:56358 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607.//*[@class='lefts']/ul/li[8]/divpass
+2017-05-25 18:43:08  [ main:72912 ] - [ INFO ]  kf_4607整体统计 :pass
+2017-05-25 18:43:10  [ main:75633 ] - [ INFO ]  kf_4607有效咨询 :pass
+2017-05-25 18:43:12  [ main:77302 ] - [ INFO ]  kf_4607已购买咨询 :pass
+2017-05-25 18:43:14  [ main:79746 ] - [ INFO ]  kf_4607未购买咨询 :pass
+2017-05-25 18:43:17  [ main:81910 ] - [ INFO ]  kf_4607已总结咨询 :pass
+2017-05-25 18:43:20  [ main:84877 ] - [ INFO ]  kf_4607未总结咨询 :pass
+2017-05-25 18:43:21  [ main:86737 ] - [ INFO ]  kf_4607商品环节咨询 :pass
+2017-05-25 18:43:23  [ main:88496 ] - [ INFO ]  kf_4607购物车咨询 :pass
+2017-05-25 18:43:25  [ main:90351 ] - [ INFO ]  kf_4607订单页咨询 :pass
+2017-05-25 18:43:27  [ main:92467 ] - [ INFO ]  kf_4607支付页咨询 :pass
+2017-05-25 18:43:30  [ main:95142 ] - [ INFO ]  kf_4607其他环节咨询 :pass
+2017-05-25 18:43:32  [ main:97415 ] - [ INFO ]  kf_4607无效咨询 :pass
+2017-05-25 18:43:34  [ main:99630 ] - [ INFO ]  kf_4607访客无应答 :pass
+2017-05-25 18:43:37  [ main:102538 ] - [ INFO ]  kf_4607客服无应答 :pass
+2017-05-25 18:43:40  [ main:105167 ] - [ INFO ]  kf_4607已处理 :pass
+2017-05-25 18:43:42  [ main:107159 ] - [ INFO ]  kf_4607未处理 :pass
+2017-05-25 18:43:42  [ main:107249 ] - [ INFO ]  kf_4607电话记录 :pass
+2017-05-25 18:43:44  [ main:109328 ] - [ INFO ]  kf_4607呼入接听记录 :pass
+2017-05-25 18:43:46  [ main:110977 ] - [ INFO ]  kf_4607呼入未接记录 :pass
+2017-05-25 18:43:47  [ main:112705 ] - [ INFO ]  kf_4607呼出接听记录 :pass
+2017-05-25 18:43:49  [ main:114154 ] - [ INFO ]  kf_4607呼出未接记录 :pass
+2017-05-25 18:43:51  [ main:115937 ] - [ INFO ]  kf_4607同事会话记录 :pass
+2017-05-25 18:43:53  [ main:118707 ] - [ INFO ]  kf_4607导出管理 :pass
+2017-05-25 18:43:56  [ main:121441 ] - [ INFO ]  kf_4607常用搜索:pass
+2017-05-25 18:44:14  [ main:139508 ] - [ INFO ]  pass

@@ -1,0 +1,422 @@
+2017-05-26 14:06:04  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 14:06:04  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 14:06:05  [ main:269 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 14:06:08  [ main:3094 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 14:06:10  [ main:5414 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 14:06:23  [ main:18677 ] - [ INFO ]  存在接待组
+2017-05-26 14:06:23  [ main:18811 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 14:06:23  [ main:18811 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 14:06:28  [ main:23060 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 14:06:28  [ main:23370 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 14:06:28  [ main:23671 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 14:06:28  [ main:23983 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 14:06:30  [ main:25624 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 14:06:30  [ main:25945 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 14:06:31  [ main:26238 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 14:06:31  [ main:26651 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 14:06:32  [ main:27522 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 14:06:33  [ main:28368 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 14:06:34  [ main:29097 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 14:06:34  [ main:29536 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 14:06:34  [ main:29857 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 14:06:35  [ main:30211 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 14:06:35  [ main:30682 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 14:06:37  [ main:32690 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 14:06:37  [ main:33026 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 14:06:39  [ main:34676 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 14:06:39  [ main:35048 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 14:06:40  [ main:35459 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 14:06:40  [ main:35800 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 14:06:41  [ main:36341 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 14:06:41  [ main:36846 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 14:06:42  [ main:37207 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 14:21:34  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 14:21:34  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 14:21:35  [ main:309 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 14:21:38  [ main:3476 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 14:21:40  [ main:5696 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 14:21:48  [ main:13732 ] - [ INFO ]  存在接待组
+2017-05-26 14:21:48  [ main:13843 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 14:21:48  [ main:13843 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 14:21:53  [ main:18772 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 14:21:53  [ main:19080 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 14:21:54  [ main:19401 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 14:21:54  [ main:19790 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 14:21:56  [ main:21296 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 14:21:56  [ main:21757 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 14:21:56  [ main:22155 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 14:21:57  [ main:22792 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 14:21:58  [ main:23813 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 14:21:59  [ main:24365 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 14:21:59  [ main:24762 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 14:21:59  [ main:25089 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 14:22:00  [ main:25426 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 14:22:00  [ main:25935 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 14:22:01  [ main:26453 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 14:22:03  [ main:28470 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 14:22:03  [ main:28876 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 14:22:05  [ main:30622 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 14:22:05  [ main:31046 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 14:22:06  [ main:31460 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 14:22:06  [ main:31781 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 14:22:07  [ main:32657 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 14:22:08  [ main:33344 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 14:22:08  [ main:33632 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 14:26:53  [ main:318764 ] - [ INFO ]  kf_4607互动记录-整体统计 :pass
+2017-05-26 14:26:56  [ main:321455 ] - [ INFO ]  kf_4607互动记录-有效咨询 :pass
+2017-05-26 14:26:58  [ main:323527 ] - [ INFO ]  kf_4607互动记录-已购买咨询 :pass
+2017-05-26 14:27:01  [ main:326346 ] - [ INFO ]  kf_4607互动记录-未购买咨询 :pass
+2017-05-26 14:27:02  [ main:328198 ] - [ INFO ]  kf_4607互动记录-已总结咨询 :pass
+2017-05-26 14:27:06  [ main:331255 ] - [ INFO ]  kf_4607互动记录-未总结咨询 :pass
+2017-05-26 14:27:08  [ main:334182 ] - [ INFO ]  kf_4607互动记录-商品环节咨询 :pass
+2017-05-26 14:27:11  [ main:336801 ] - [ INFO ]  kf_4607互动记录-购物车咨询 :pass
+2017-05-26 14:27:13  [ main:339220 ] - [ INFO ]  kf_4607互动记录-订单页咨询 :pass
+2017-05-26 14:27:16  [ main:341242 ] - [ INFO ]  kf_4607互动记录-支付页咨询 :pass
+2017-05-26 14:27:19  [ main:344270 ] - [ INFO ]  kf_4607互动记录-其他环节咨询 :pass
+2017-05-26 14:27:21  [ main:346696 ] - [ INFO ]  kf_4607互动记录-无效咨询 :pass
+2017-05-26 14:27:23  [ main:348610 ] - [ INFO ]  kf_4607互动记录-访客无应答 :pass
+2017-05-26 14:27:25  [ main:350509 ] - [ INFO ]  kf_4607互动记录-客服无应答 :pass
+2017-05-26 14:27:27  [ main:353199 ] - [ INFO ]  kf_4607互动记录-已处理 :pass
+2017-05-26 14:27:29  [ main:354809 ] - [ INFO ]  kf_4607互动记录-未处理 :pass
+2017-05-26 14:27:29  [ main:354897 ] - [ INFO ]  kf_4607互动记录-电话记录 :pass
+2017-05-26 14:27:31  [ main:356747 ] - [ INFO ]  kf_4607互动记录-呼入接听记录 :pass
+2017-05-26 14:28:04  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 14:28:04  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 14:28:04  [ main:325 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 14:28:07  [ main:3346 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 14:28:10  [ main:5567 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 14:28:17  [ main:12895 ] - [ INFO ]  存在接待组
+2017-05-26 14:28:17  [ main:12999 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 14:28:17  [ main:12999 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 14:28:22  [ main:17476 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 14:28:22  [ main:17805 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 14:28:22  [ main:18171 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 14:28:23  [ main:18575 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 14:28:24  [ main:20082 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 14:28:24  [ main:20377 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 14:28:25  [ main:20680 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 14:28:25  [ main:21384 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 14:28:26  [ main:22189 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 14:28:27  [ main:22650 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 14:28:27  [ main:23175 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 14:28:28  [ main:23568 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 14:28:28  [ main:23872 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 14:28:28  [ main:24231 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 14:28:29  [ main:24762 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 14:28:31  [ main:26858 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 14:28:31  [ main:27328 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 14:28:33  [ main:28941 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 14:28:33  [ main:29282 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 14:28:34  [ main:29697 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 14:28:34  [ main:29978 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 14:28:35  [ main:30490 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 14:28:35  [ main:30998 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 14:28:36  [ main:31448 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 14:30:37  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 14:30:37  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 14:30:37  [ main:573 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 14:30:40  [ main:3443 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 14:30:42  [ main:5557 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 14:30:50  [ main:12948 ] - [ INFO ]  存在接待组
+2017-05-26 14:30:50  [ main:13049 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 14:30:50  [ main:13049 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 14:30:54  [ main:17585 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 14:30:55  [ main:17884 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 14:30:55  [ main:18184 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 14:30:55  [ main:18488 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 14:30:57  [ main:19887 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 14:30:57  [ main:20198 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 14:30:57  [ main:20526 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 14:30:58  [ main:21345 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 14:30:59  [ main:22190 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 14:31:00  [ main:22636 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 14:31:00  [ main:23079 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 14:31:00  [ main:23444 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 14:31:01  [ main:23772 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 14:31:01  [ main:24183 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 14:31:02  [ main:24642 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 14:31:03  [ main:26282 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 14:31:03  [ main:26615 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 14:31:05  [ main:28123 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 14:31:05  [ main:28441 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 14:31:06  [ main:28843 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 14:31:06  [ main:29117 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 14:31:06  [ main:29605 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 14:31:07  [ main:29996 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 14:31:07  [ main:30273 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 14:31:24  [ main:47129 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:26  [ main:48909 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:28  [ main:50683 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:29  [ main:52272 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:31  [ main:54012 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:33  [ main:55719 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:34  [ main:57305 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:35  [ main:58418 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:31:52  [ main:75573 ] - [ INFO ]  kf_4607互动记录-整体统计 :pass
+2017-05-26 14:31:55  [ main:78482 ] - [ INFO ]  kf_4607互动记录-有效咨询 :pass
+2017-05-26 14:31:57  [ main:80390 ] - [ INFO ]  kf_4607互动记录-已购买咨询 :pass
+2017-05-26 14:32:01  [ main:83673 ] - [ INFO ]  kf_4607互动记录-未购买咨询 :pass
+2017-05-26 14:32:03  [ main:86026 ] - [ INFO ]  kf_4607互动记录-已总结咨询 :pass
+2017-05-26 14:32:06  [ main:88728 ] - [ INFO ]  kf_4607互动记录-未总结咨询 :pass
+2017-05-26 14:32:08  [ main:90701 ] - [ INFO ]  kf_4607互动记录-商品环节咨询 :pass
+2017-05-26 14:32:10  [ main:92674 ] - [ INFO ]  kf_4607互动记录-购物车咨询 :pass
+2017-05-26 14:32:11  [ main:94461 ] - [ INFO ]  kf_4607互动记录-订单页咨询 :pass
+2017-05-26 14:32:13  [ main:96117 ] - [ INFO ]  kf_4607互动记录-支付页咨询 :pass
+2017-05-26 14:32:15  [ main:98500 ] - [ INFO ]  kf_4607互动记录-其他环节咨询 :pass
+2017-05-26 14:32:17  [ main:100252 ] - [ INFO ]  kf_4607互动记录-无效咨询 :pass
+2017-05-26 14:32:19  [ main:101870 ] - [ INFO ]  kf_4607互动记录-访客无应答 :pass
+2017-05-26 14:32:20  [ main:103521 ] - [ INFO ]  kf_4607互动记录-客服无应答 :pass
+2017-05-26 14:32:23  [ main:106366 ] - [ INFO ]  kf_4607互动记录-已处理 :pass
+2017-05-26 14:32:25  [ main:108090 ] - [ INFO ]  kf_4607互动记录-未处理 :pass
+2017-05-26 14:32:25  [ main:108180 ] - [ INFO ]  kf_4607互动记录-电话记录 :pass
+2017-05-26 14:32:27  [ main:109753 ] - [ INFO ]  kf_4607互动记录-呼入接听记录 :pass
+2017-05-26 14:32:28  [ main:111363 ] - [ INFO ]  kf_4607互动记录-呼入未接记录 :pass
+2017-05-26 14:32:31  [ main:113746 ] - [ INFO ]  kf_4607互动记录-呼出接听记录 :pass
+2017-05-26 14:32:32  [ main:115281 ] - [ INFO ]  kf_4607互动记录-呼出未接记录 :pass
+2017-05-26 14:32:34  [ main:117400 ] - [ INFO ]  kf_4607互动记录-同事会话记录 :pass
+2017-05-26 14:32:37  [ main:120537 ] - [ INFO ]  kf_4607互动记录-导出管理 :pass
+2017-05-26 14:32:40  [ main:123512 ] - [ INFO ]  kf_4607互动记录-常用搜索:pass
+2017-05-26 14:32:58  [ main:141306 ] - [ INFO ]  kf_4607pass  高级搜索
+2017-05-26 14:33:10  [ main:153439 ] - [ INFO ]  kf_4607: KPI概况 pass
+2017-05-26 14:33:12  [ main:155168 ] - [ INFO ]  kf_4607: KPI详细数据 pass
+2017-05-26 14:33:14  [ main:157469 ] - [ INFO ]  kf_4607: KPI咨询绩效 pass
+2017-05-26 14:33:16  [ main:159290 ] - [ INFO ]  kf_4607:KPI 质检绩效 pass
+2017-05-26 14:33:18  [ main:161031 ] - [ INFO ]  kf_4607:KPI 订单绩效 pass
+2017-05-26 14:33:21  [ main:163732 ] - [ INFO ]  kf_4607:KPI 关键绩效排名  pass
+2017-05-26 14:33:22  [ main:165549 ] - [ INFO ]  kf_4607:KPI 工作时长 pass
+2017-05-26 14:33:26  [ main:169319 ] - [ INFO ]  kf_4607: KPI咨询发起 pass
+2017-05-26 14:33:28  [ main:171043 ] - [ INFO ]  kf_4607: KPI 咨询类型 pass
+2017-05-26 14:33:30  [ main:172678 ] - [ INFO ]  kf_4607:KPI 常见问题 pass
+2017-05-26 14:33:31  [ main:174395 ] - [ INFO ]  kf_4607:KPI 用户分析 pass
+2017-05-26 14:33:33  [ main:176126 ] - [ INFO ]  kf_4607:KPI 绩效对比 pass
+2017-05-26 14:33:35  [ main:177943 ] - [ INFO ]  kf_4607:KPI 排队分析 pass
+2017-05-26 14:33:37  [ main:179642 ] - [ INFO ]  kf_4607:KPI 会话质量 pass
+2017-05-26 14:33:38  [ main:180872 ] - [ INFO ]  kf_4607:  KPI 用户资源统计  pass
+2017-05-26 14:33:39  [ main:182078 ] - [ INFO ]  kf_4607:KPI 工单绩效 pass
+2017-05-26 14:33:40  [ main:183304 ] - [ INFO ]  kf_4607:KPI 电话绩效 pass
+2017-05-26 14:33:55  [ main:198541 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-26 14:34:00  [ main:202735 ] - [ INFO ]  检查是否连接到机器人
+2017-05-26 14:34:00  [ main:202786 ] - [ INFO ]  访客连接到机器人
+2017-05-26 14:34:01  [ main:203833 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-26 14:34:01  [ main:203842 ] - [ INFO ]  成功连接到人工客服
+2017-05-26 14:34:01  [ main:203850 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-26 14:34:01  [ main:203850 ] - [ INFO ]  聊窗打开成功
+2017-05-26 14:36:30  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 14:36:30  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 14:36:31  [ main:578 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 14:36:34  [ main:3698 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 14:36:36  [ main:5917 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 14:36:43  [ main:12706 ] - [ INFO ]  存在接待组
+2017-05-26 14:36:43  [ main:12813 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 14:36:43  [ main:12813 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 14:36:47  [ main:16809 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 14:36:47  [ main:17115 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 14:36:48  [ main:17415 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 14:36:48  [ main:17714 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 14:36:49  [ main:19136 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 14:36:50  [ main:19447 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 14:36:50  [ main:19747 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 14:36:51  [ main:20175 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 14:36:51  [ main:20834 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 14:36:52  [ main:21243 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 14:36:52  [ main:21656 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 14:36:52  [ main:22003 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 14:36:53  [ main:22323 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 14:36:53  [ main:22736 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 14:36:53  [ main:23086 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 14:36:55  [ main:24993 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 14:36:56  [ main:25424 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 14:36:57  [ main:27076 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 14:36:58  [ main:27423 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 14:36:58  [ main:27835 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 14:36:58  [ main:28105 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 14:36:59  [ main:28577 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 14:36:59  [ main:28992 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 14:37:00  [ main:29299 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 14:37:16  [ main:45846 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:18  [ main:47452 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:20  [ main:49213 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:21  [ main:50837 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:23  [ main:52616 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:25  [ main:54159 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:26  [ main:55819 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:27  [ main:56918 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:37:44  [ main:73566 ] - [ INFO ]  kf_4607互动记录-整体统计 :pass
+2017-05-26 14:37:47  [ main:76180 ] - [ INFO ]  kf_4607互动记录-有效咨询 :pass
+2017-05-26 14:37:48  [ main:77901 ] - [ INFO ]  kf_4607互动记录-已购买咨询 :pass
+2017-05-26 14:37:51  [ main:80504 ] - [ INFO ]  kf_4607互动记录-未购买咨询 :pass
+2017-05-26 14:37:53  [ main:82253 ] - [ INFO ]  kf_4607互动记录-已总结咨询 :pass
+2017-05-26 14:37:55  [ main:84744 ] - [ INFO ]  kf_4607互动记录-未总结咨询 :pass
+2017-05-26 14:37:57  [ main:86542 ] - [ INFO ]  kf_4607互动记录-商品环节咨询 :pass
+2017-05-26 14:37:59  [ main:88232 ] - [ INFO ]  kf_4607互动记录-购物车咨询 :pass
+2017-05-26 14:38:00  [ main:90044 ] - [ INFO ]  kf_4607互动记录-订单页咨询 :pass
+2017-05-26 14:38:02  [ main:91893 ] - [ INFO ]  kf_4607互动记录-支付页咨询 :pass
+2017-05-26 14:38:05  [ main:94418 ] - [ INFO ]  kf_4607互动记录-其他环节咨询 :pass
+2017-05-26 14:38:06  [ main:96052 ] - [ INFO ]  kf_4607互动记录-无效咨询 :pass
+2017-05-26 14:38:08  [ main:97801 ] - [ INFO ]  kf_4607互动记录-访客无应答 :pass
+2017-05-26 14:38:10  [ main:99648 ] - [ INFO ]  kf_4607互动记录-客服无应答 :pass
+2017-05-26 14:38:13  [ main:102756 ] - [ INFO ]  kf_4607互动记录-已处理 :pass
+2017-05-26 14:38:15  [ main:104529 ] - [ INFO ]  kf_4607互动记录-未处理 :pass
+2017-05-26 14:38:15  [ main:104622 ] - [ INFO ]  kf_4607互动记录-电话记录 :pass
+2017-05-26 14:38:16  [ main:106068 ] - [ INFO ]  kf_4607互动记录-呼入接听记录 :pass
+2017-05-26 14:38:18  [ main:107746 ] - [ INFO ]  kf_4607互动记录-呼入未接记录 :pass
+2017-05-26 14:38:20  [ main:109192 ] - [ INFO ]  kf_4607互动记录-呼出接听记录 :pass
+2017-05-26 14:38:21  [ main:110609 ] - [ INFO ]  kf_4607互动记录-呼出未接记录 :pass
+2017-05-26 14:38:23  [ main:112281 ] - [ INFO ]  kf_4607互动记录-同事会话记录 :pass
+2017-05-26 14:38:26  [ main:115201 ] - [ INFO ]  kf_4607互动记录-导出管理 :pass
+2017-05-26 14:38:28  [ main:117823 ] - [ INFO ]  kf_4607互动记录-常用搜索:pass
+2017-05-26 14:38:46  [ main:135689 ] - [ INFO ]  kf_4607pass  高级搜索
+2017-05-26 14:38:58  [ main:147875 ] - [ INFO ]  kf_4607: KPI概况 pass
+2017-05-26 14:39:00  [ main:149663 ] - [ INFO ]  kf_4607: KPI详细数据 pass
+2017-05-26 14:39:03  [ main:152234 ] - [ INFO ]  kf_4607: KPI咨询绩效 pass
+2017-05-26 14:39:05  [ main:154240 ] - [ INFO ]  kf_4607:KPI 质检绩效 pass
+2017-05-26 14:39:07  [ main:156417 ] - [ INFO ]  kf_4607:KPI 订单绩效 pass
+2017-05-26 14:39:10  [ main:159492 ] - [ INFO ]  kf_4607:KPI 关键绩效排名  pass
+2017-05-26 14:39:12  [ main:161846 ] - [ INFO ]  kf_4607:KPI 工作时长 pass
+2017-05-26 14:39:16  [ main:165805 ] - [ INFO ]  kf_4607: KPI咨询发起 pass
+2017-05-26 14:39:18  [ main:167841 ] - [ INFO ]  kf_4607: KPI 咨询类型 pass
+2017-05-26 14:39:20  [ main:169936 ] - [ INFO ]  kf_4607:KPI 常见问题 pass
+2017-05-26 14:39:23  [ main:172248 ] - [ INFO ]  kf_4607:KPI 用户分析 pass
+2017-05-26 14:39:24  [ main:174043 ] - [ INFO ]  kf_4607:KPI 绩效对比 pass
+2017-05-26 14:39:26  [ main:175709 ] - [ INFO ]  kf_4607:KPI 排队分析 pass
+2017-05-26 14:39:28  [ main:177491 ] - [ INFO ]  kf_4607:KPI 会话质量 pass
+2017-05-26 14:39:29  [ main:178730 ] - [ INFO ]  kf_4607:  KPI 用户资源统计  pass
+2017-05-26 14:39:30  [ main:180090 ] - [ INFO ]  kf_4607:KPI 工单绩效 pass
+2017-05-26 14:39:32  [ main:181330 ] - [ INFO ]  kf_4607:KPI 电话绩效 pass
+2017-05-26 14:39:45  [ main:194468 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-26 14:39:46  [ main:195273 ] - [ INFO ]  检查是否连接到机器人
+2017-05-26 14:39:46  [ main:195322 ] - [ INFO ]  访客连接到机器人
+2017-05-26 14:39:47  [ main:196358 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-26 14:39:47  [ main:196367 ] - [ INFO ]  成功连接到人工客服
+2017-05-26 14:39:47  [ main:196374 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-26 14:39:47  [ main:196374 ] - [ INFO ]  聊窗打开成功
+2017-05-26 14:40:33  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 14:40:33  [ main:1 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 14:40:33  [ main:377 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 14:40:36  [ main:3261 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 14:40:38  [ main:5486 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 14:40:46  [ main:12760 ] - [ INFO ]  存在接待组
+2017-05-26 14:40:46  [ main:12886 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 14:40:46  [ main:12886 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 14:40:50  [ main:17377 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 14:40:51  [ main:17681 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 14:40:51  [ main:17998 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 14:40:51  [ main:18299 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 14:40:53  [ main:19798 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 14:40:53  [ main:20101 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 14:40:53  [ main:20436 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 14:40:54  [ main:20842 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 14:40:54  [ main:21611 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 14:40:55  [ main:22056 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 14:40:55  [ main:22345 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 14:40:56  [ main:22682 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 14:40:56  [ main:23007 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 14:40:56  [ main:23401 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 14:40:57  [ main:23696 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 14:40:58  [ main:25628 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 14:40:59  [ main:26039 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 14:41:01  [ main:27661 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 14:41:01  [ main:27989 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 14:41:01  [ main:28326 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 14:41:02  [ main:28717 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 14:41:02  [ main:29279 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 14:41:03  [ main:29786 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 14:41:03  [ main:30036 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 14:41:20  [ main:46683 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:21  [ main:48261 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:23  [ main:50032 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:25  [ main:51739 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:26  [ main:53381 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:28  [ main:55016 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:29  [ main:56621 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:31  [ main:57724 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607用户资源pass
+2017-05-26 14:41:48  [ main:74923 ] - [ INFO ]  kf_4607互动记录-整体统计 :pass
+2017-05-26 14:41:51  [ main:77734 ] - [ INFO ]  kf_4607互动记录-有效咨询 :pass
+2017-05-26 14:41:52  [ main:79511 ] - [ INFO ]  kf_4607互动记录-已购买咨询 :pass
+2017-05-26 14:41:55  [ main:81949 ] - [ INFO ]  kf_4607互动记录-未购买咨询 :pass
+2017-05-26 14:41:57  [ main:83703 ] - [ INFO ]  kf_4607互动记录-已总结咨询 :pass
+2017-05-26 14:41:59  [ main:86240 ] - [ INFO ]  kf_4607互动记录-未总结咨询 :pass
+2017-05-26 14:42:01  [ main:88149 ] - [ INFO ]  kf_4607互动记录-商品环节咨询 :pass
+2017-05-26 14:42:03  [ main:89887 ] - [ INFO ]  kf_4607互动记录-购物车咨询 :pass
+2017-05-26 14:42:05  [ main:91831 ] - [ INFO ]  kf_4607互动记录-订单页咨询 :pass
+2017-05-26 14:42:06  [ main:93555 ] - [ INFO ]  kf_4607互动记录-支付页咨询 :pass
+2017-05-26 14:42:09  [ main:96284 ] - [ INFO ]  kf_4607互动记录-其他环节咨询 :pass
+2017-05-26 14:42:11  [ main:97989 ] - [ INFO ]  kf_4607互动记录-无效咨询 :pass
+2017-05-26 14:42:12  [ main:99645 ] - [ INFO ]  kf_4607互动记录-访客无应答 :pass
+2017-05-26 14:42:14  [ main:101290 ] - [ INFO ]  kf_4607互动记录-客服无应答 :pass
+2017-05-26 14:42:17  [ main:103888 ] - [ INFO ]  kf_4607互动记录-已处理 :pass
+2017-05-26 14:42:19  [ main:106272 ] - [ INFO ]  kf_4607互动记录-未处理 :pass
+2017-05-26 14:42:19  [ main:106358 ] - [ INFO ]  kf_4607互动记录-电话记录 :pass
+2017-05-26 14:42:21  [ main:107778 ] - [ INFO ]  kf_4607互动记录-呼入接听记录 :pass
+2017-05-26 14:42:22  [ main:109420 ] - [ INFO ]  kf_4607互动记录-呼入未接记录 :pass
+2017-05-26 14:42:24  [ main:110970 ] - [ INFO ]  kf_4607互动记录-呼出接听记录 :pass
+2017-05-26 14:42:26  [ main:113656 ] - [ INFO ]  kf_4607互动记录-呼出未接记录 :pass
+2017-05-26 14:42:28  [ main:115398 ] - [ INFO ]  kf_4607互动记录-同事会话记录 :pass
+2017-05-26 14:42:31  [ main:118465 ] - [ INFO ]  kf_4607互动记录-导出管理 :pass
+2017-05-26 14:42:35  [ main:121944 ] - [ INFO ]  kf_4607互动记录-常用搜索:pass
+2017-05-26 14:42:53  [ main:140126 ] - [ INFO ]  kf_4607pass  高级搜索
+2017-05-26 14:43:06  [ main:153216 ] - [ INFO ]  kf_4607: KPI概况 pass
+2017-05-26 14:43:08  [ main:155203 ] - [ INFO ]  kf_4607: KPI详细数据 pass
+2017-05-26 14:43:11  [ main:157972 ] - [ INFO ]  kf_4607: KPI咨询绩效 pass
+2017-05-26 14:43:12  [ main:159654 ] - [ INFO ]  kf_4607:KPI 质检绩效 pass
+2017-05-26 14:43:15  [ main:161673 ] - [ INFO ]  kf_4607:KPI 订单绩效 pass
+2017-05-26 14:43:18  [ main:164722 ] - [ INFO ]  kf_4607:KPI 关键绩效排名  pass
+2017-05-26 14:43:20  [ main:167219 ] - [ INFO ]  kf_4607:KPI 工作时长 pass
+2017-05-26 14:43:24  [ main:171234 ] - [ INFO ]  kf_4607: KPI咨询发起 pass
+2017-05-26 14:43:26  [ main:173313 ] - [ INFO ]  kf_4607: KPI 咨询类型 pass
+2017-05-26 14:43:28  [ main:175261 ] - [ INFO ]  kf_4607:KPI 常见问题 pass
+2017-05-26 14:43:30  [ main:177588 ] - [ INFO ]  kf_4607:KPI 用户分析 pass
+2017-05-26 14:43:33  [ main:179991 ] - [ INFO ]  kf_4607:KPI 绩效对比 pass
+2017-05-26 14:43:36  [ main:183358 ] - [ INFO ]  kf_4607:KPI 排队分析 pass
+2017-05-26 14:43:40  [ main:186669 ] - [ INFO ]  kf_4607:KPI 会话质量 pass
+2017-05-26 14:43:42  [ main:189301 ] - [ INFO ]  kf_4607:  KPI 用户资源统计  pass
+2017-05-26 14:43:45  [ main:192500 ] - [ INFO ]  kf_4607:KPI 工单绩效 pass
+2017-05-26 14:43:48  [ main:195046 ] - [ INFO ]  kf_4607:KPI 电话绩效 pass
+2017-05-26 14:44:02  [ main:208749 ] - [ INFO ]  http://nt-v1-proxy.ntalker.com:140/kf_4607/index.php---测试页面打开成功
+2017-05-26 14:44:03  [ main:209728 ] - [ INFO ]  检查是否连接到机器人
+2017-05-26 14:44:03  [ main:209781 ] - [ INFO ]  访客连接到机器人
+2017-05-26 14:44:04  [ main:210814 ] - [ INFO ]  检查是否连接到人工客服
+2017-05-26 14:44:04  [ main:210823 ] - [ INFO ]  成功连接到人工客服
+2017-05-26 14:44:04  [ main:210831 ] - [ INFO ]  元素存在//div[@class="chat-view-window-editor"]/textarea
+2017-05-26 14:44:04  [ main:210831 ] - [ INFO ]  聊窗打开成功
+2017-05-26 16:44:57  [ main:0 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 16:44:57  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 16:44:58  [ main:417 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 16:45:02  [ main:5043 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 16:45:06  [ main:8297 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 16:58:15  [ main:797988 ] - [ INFO ]  存在接待组
+2017-05-26 16:58:16  [ main:798112 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 16:58:16  [ main:798112 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 18:14:51  [ main:1 ] - [ INFO ]  ------------------------------kf_4607StartTest-------------------------------------------------
+2017-05-26 18:14:51  [ main:2 ] - [ INFO ]  kf_4607配置参数读取完成,开始进行测试.......
+2017-05-26 18:14:52  [ main:401 ] - [ INFO ]  成功获取tchat、t2d、文件服务器、轨迹服务器地址
+2017-05-26 18:14:55  [ main:3252 ] - [ INFO ]  客服连接t2d服务器成功
+2017-05-26 18:14:57  [ main:5367 ] - [ INFO ]  客服登录t2d服务器成功
+2017-05-26 18:15:04  [ main:12983 ] - [ INFO ]  存在接待组
+2017-05-26 18:15:05  [ main:13103 ] - [ INFO ]  客服端接待时间为关闭状态，继续自动化测试
+2017-05-26 18:15:05  [ main:13103 ] - [ INFO ]  客服端创建接待组__XN__TEST_______成功，继续自动化测试
+2017-05-26 18:15:09  [ main:17253 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人信息 pass
+2017-05-26 18:15:09  [ main:17557 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 修改密码 pass
+2017-05-26 18:15:09  [ main:17847 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 个人常用话术 pass
+2017-05-26 18:15:10  [ main:18151 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-个人设置 聊天设置 pass
+2017-05-26 18:15:11  [ main:19746 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业信息 pass
+2017-05-26 18:15:12  [ main:20042 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-web聊窗 pass
+2017-05-26 18:15:12  [ main:20334 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询接待页签管理 pass
+2017-05-26 18:15:12  [ main:20737 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-微博对接 pass
+2017-05-26 18:15:13  [ main:21721 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-wap聊窗 pass
+2017-05-26 18:15:14  [ main:22294 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-统一客服 pass
+2017-05-26 18:15:14  [ main:22713 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-企业常用话术 pass
+2017-05-26 18:15:15  [ main:23072 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询类型 pass
+2017-05-26 18:15:15  [ main:23398 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-咨询评价 pass
+2017-05-26 18:15:15  [ main:23860 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-留言 pass
+2017-05-26 18:15:16  [ main:24201 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-账户管理 pass
+2017-05-26 18:15:18  [ main:26215 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-接待组 pass
+2017-05-26 18:15:18  [ main:26662 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-界面设置 pass
+2017-05-26 18:15:20  [ main:28183 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话坐席监控pass
+2017-05-26 18:15:20  [ main:28616 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话配置 pass
+2017-05-26 18:15:20  [ main:28929 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-电话质检 pass
+2017-05-26 18:15:21  [ main:29234 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-关键页面 pass
+2017-05-26 18:15:21  [ main:29835 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-自动应答 pass
+2017-05-26 18:15:22  [ main:30271 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-黑名单 pass
+2017-05-26 18:15:22  [ main:30584 ] - [ INFO ]  /Users/ntalker/Downloads/Ntalker_test\src\main\java\ntest\other\download\kf_4607:设置-通知 pass
+2017-05-26 18:15:39  [ main:47380 ] - [ INFO ]  用户资源 全部  未通过
